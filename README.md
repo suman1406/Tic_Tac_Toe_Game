@@ -14,21 +14,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. Navigate to the project directory
-   ```
-git clone https://github.com/suman1406/Tic_Tac_Toe_Game.git
+1. Clone the repo
+   ```bash
+   git clone https://github.com/suman1406/Tic_Tac_Toe_Game.git
    ```
 2. Navigate to the project directory
-   ```
-cd Project-Name
+   ```bash
+   cd Tic_Tac_Toe_Game
    ```
 3. Install dependencies
-   ```
-flutter pub get
+   ```bash
+   flutter pub get
    ```
 4. Run the app
-   ```
-flutter run
+   ```bash
+   flutter run
    ```
 
 ## Usage
@@ -53,5 +53,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Suman Panigrahi - psuman7155@gmail.com
 
-Project Link: [https://github.com/your_username_/Project-Name](https://github.com/suman1406/Tic_Tac_Toe_Game)
+Project Link: [https://github.com/suman1406/Tic_Tac_Toe_Game](https://github.com/suman1406/Tic_Tac_Toe_Game)
 ```
