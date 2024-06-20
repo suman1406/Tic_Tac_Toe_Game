@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. Clone the repo
+1. Navigate to the project directory
    ```
 git clone https://github.com/suman1406/Tic_Tac_Toe_Game.git
    ```
