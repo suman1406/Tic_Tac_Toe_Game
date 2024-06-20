@@ -54,4 +54,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Suman Panigrahi - psuman7155@gmail.com
 
 Project Link: [https://github.com/suman1406/Tic_Tac_Toe_Game](https://github.com/suman1406/Tic_Tac_Toe_Game)
-```
